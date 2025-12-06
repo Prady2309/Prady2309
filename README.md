@@ -1,16 +1,25 @@
-### Hi there, I'm Prady! 👋
-Full-Stack | Backend-Heavy | AI & Data Enthusiast
+<h1 align="center">Hey! I'm Prady 👋</h1>
+
+<p align="center">
+  <strong>Turning coffee into production-grade AI systems ☕→🚀 (or atleast trying to)</strong>
+  <strong>Data Scientist | Backend-Heavy | AI & Data Enthusiast</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeepr2309"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:thisispradeepr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 🔨 **Tech Stack & Tools**  
 ```
 Python • C/C++ • Django REST Framework • FastAPI • Flask • TensorFlow/Keras
-PostgreSQL • MySQL • AWS • Docker • Chainlit • Streamlit
-HTML • CSS • JavaScript • Git • Linux
+PostgreSQL • MySQL • AWS • Chainlit • Streamlit
+HTML • CSS • Git • Linux • Airflow
 ```
 
 🧠 Domains & Expertise
 ```
-Backend Architecture & RESTful APIs (Django-DRF expert 🏆)
+Backend Architecture & RESTful APIs (Django-DRF expert 🏆) *Note - I would like to think so
 ETL Pipelines & Data Engineering
 Machine Learning • Deep Learning • Computer Vision • NLP
 LLMs • RAG • Prompt Engineering • Fine-tuning
@@ -30,10 +39,4 @@ Integrating and deploying LLMs (RAG, agents, fine-tuning)
 Turning ideas into production-ready systems
 Clean code, performance, and elegant solutions
 AI that actually solves real problems
-```
-
-📬 Let's connect!
-```
-https://www.linkedin.com/in/pradeepr2309
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
 ```
