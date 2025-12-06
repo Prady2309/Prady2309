@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Prady 👋</h1>
 
 <p align="center">
-  <strong>Turning coffee into production-grade AI systems ☕→🚀 (or atleast trying to)</strong>
+  <strong>Turning coffee into production-grade AI systems ☕→🚀 (or atleast trying to)</strong> <br>
   <strong>Data Scientist | Backend-Heavy | AI & Data Enthusiast</strong>
 </p>
 
