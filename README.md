@@ -1,11 +1,40 @@
-### Hi fellow developers 👋, Prady here
+<img align="right" src="https://github.com/Prady2309/Prady2309/assets/95231874/9434db5d-1543-4d93-8533-6784e8916126" width="300" alt="Dinosally waving hello">
 
-<!--
-**Prady2309/Prady2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Prady! 👋
+Full-Stack | Backend-Heavy | AI & Data Enthusiast
 
-Here are some ideas to get you started:
-![CuteDinoDinosallyGIF](https://github.com/Prady2309/Prady2309/assets/95231874/9434db5d-1543-4d93-8533-6784e8916126)
--->
-- 🔨 Python, C/C++, MySQL/PostgreSQL, Flask, Scikit-Learn, Tensorflow, Chainlit, Streamlit, HTML, CSS, AWS
-- 📚 RDBMS, Data Mining, Data Visualization, ML, Deep Learning, Computer Vision, Data Structures and Algorithms, NLP, LLMs
+🔨 **Tech Stack & Tools**  
+```
+Python • C/C++ • Django REST Framework • FastAPI • Flask • TensorFlow/Keras
+PostgreSQL • MySQL • AWS • Docker • Chainlit • Streamlit
+HTML • CSS • JavaScript • Git • Linux
 
+
+🧠 Domains & Expertise
+
+Backend Architecture & RESTful APIs (Django-DRF expert 🏆)
+ETL Pipelines & Data Engineering
+Machine Learning • Deep Learning • Computer Vision • NLP
+LLMs • RAG • Prompt Engineering • Fine-tuning
+Data Structures & Algorithms • System Design
+
+💡 Currently Strong In
+
+Building scalable backends with Django-DRF
+Production-grade ETL pipelines and automation scripts
+PostgreSQL performance tuning and complex queries
+Integrating and deploying LLMs (RAG, agents, fine-tuning)
+
+🚀 Always excited about:
+
+Turning ideas into production-ready systems
+Clean code, performance, and elegant solutions
+AI that actually solves real problems
+
+📬 Let's connect!
+LinkedIn
+Email
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+```
+<img src="https://github-readme-stats.vercel.app/api?username=Prady2309&show_icons=true&theme=tokyonight" alt="Prady's GitHub Stats" />
